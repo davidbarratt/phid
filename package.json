@@ -1,6 +1,6 @@
 {
   "name": "phid",
-  "description": "",
+  "description": "Node.js implementation of Phabricator's PHID generator",
   "main": "index.js",
   "devDependencies": {
     "jest": "^23.6.0"
@@ -8,5 +8,6 @@
   "scripts": {
     "test": "jest"
   },
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "version": "1.0.0"
 }
