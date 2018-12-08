@@ -1,0 +1,12 @@
+{
+  "name": "phid",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "GPL-3.0-or-later"
+}
